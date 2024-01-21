@@ -24,9 +24,9 @@ SoloLearn
 </ol>
 
 <li>This project is not hosting .It is deploy in my localhost . </li>
-<li>In this project we use user authentication module . </li>
+<li>In this project i use user authentication module . </li>
 
-<li>This project uses following thins . </li>
+<li>This project uses following things . </li>
 <ol>
   <li>Jdbc</li>
   <li>Jsp</li>
