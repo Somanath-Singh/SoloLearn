@@ -1,9 +1,5 @@
 <img src="https://github.com/Somanath-Singh/SoloLearn/blob/main/Screenshot%202024-01-21%20142703.png">
 <img src="https://github.com/Somanath-Singh/SoloLearn/blob/main/Screenshot%202024-01-21%20142739.png">
-<img src="https://github.com/Somanath-Singh/SoloLearn/blob/main/Screenshot%202024-01-21%20142739.png">
-<img src="https://github.com/Somanath-Singh/SoloLearn/blob/main/Screenshot%202024-01-21%20142739.png">
-<img src="https://github.com/Somanath-Singh/SoloLearn/blob/main/Screenshot%202024-01-21%20142739.png">
-
 # SoloLearn-Advanced-Java-Project-
 I CREATED THIS WEBSITE USING  JDBC, SERVLET, JSP,BOOTSTRAP,JQUERY,CSS,JAVASCRIPT,AJAX AND OTHER PLUGINS .
 
